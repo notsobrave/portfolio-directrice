@@ -348,5 +348,5 @@ charRevealStyles.textContent = `
 document.head.appendChild(charRevealStyles);
 
 // Console signature
-console.log('%c✦ Marie Lefèvre', 'font-size: 20px; font-family: Georgia; color: #1a365d; font-weight: bold;');
+console.log('%c✦ Rebecca Figuerido', 'font-size: 20px; font-family: Georgia; color: #1a365d; font-weight: bold;');
 console.log('%cDirectrice d\'Établissement', 'font-size: 12px; color: #c9a227;');
