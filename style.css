@@ -4,12 +4,12 @@
    ======================================== */
 
 :root {
-    /* Colors */
-    --color-primary: #1a365d;
-    --color-primary-light: #2c5282;
-    --color-primary-dark: #0f2942;
-    --color-accent: #c9a227;
-    --color-accent-light: #d4b24a;
+    /* Colors - Nature Green Theme */
+    --color-primary: #2d5a47;
+    --color-primary-light: #3d7a5f;
+    --color-primary-dark: #1e3d30;
+    --color-accent: #a8894a;
+    --color-accent-light: #c4a55e;
     --color-white: #ffffff;
     --color-cream: #faf9f7;
     --color-gray-100: #f7f7f7;
